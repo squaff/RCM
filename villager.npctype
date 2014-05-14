@@ -844,8 +844,23 @@
                         "Are you cold? Can you GET cold?",
                         "Not much for jokes, are you machine?",
                         "Care to go for a swim?",
-                        "Call the PEacekeepers if you require assistance - they will come if the need is great."
-                        ],
+                        "Call the Peacekeepers if you require assistance - they will come if the need is great."
+                        ], 
+                    "skellies": [
+                        "Your kind surely has some spectacular hair for a race without flesh.",
+                        "Our skeletal structure looks NOTHING like yours.",
+                        "I beg your pardon, but you're making me rather hungry...",
+                        "Cursed to live forever? Or blessed?",
+                        "I've heard that your kind simply reforms if fatally injured. May I document this process, for science?",
+                        "Hello to you to, 'dude'!",
+                        "How does something such as you come to be?",
+                        "You barely have a presence in infrared - how unusual!",
+                        "Back off, dry bones.",
+                        "Are you cold? Can you GET cold without skin? Is that rude?",
+                        "I think you're 'rad'. Is that right? 'Rad'?",
+                        "Care to go for a swim?",
+                        "Call the Peacekeepers if you require assistance - they will come if the need is great."
+                        ],  
                     "varan": [
                         "It is shameful to war - doubly so against one's own species...",
                         "The Peacekeepers can intervene in your war, should you wish it...",
